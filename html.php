@@ -509,6 +509,10 @@ local mountRoutes = {
     ["🏞 Mount Atheria"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/atheria.lua",
     ["🏞 Mount Moonlight V2"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/moonlight-v2.lua",
     ["🏞 Mount Age"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/age.lua",
+	["🏞 Mount Bejirlah"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/bejirlah.lua",
+    ["🏞 Mount Borivos"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/borisov.lua",
+    ["🏞 Mount Keyboard"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/keyboard.lua",
+    ["🏞 Mount Morohmoy"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/morohmoy.lua",
 }
 
 -- Dropdown Mount
