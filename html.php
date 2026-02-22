@@ -513,6 +513,9 @@ local mountRoutes = {
     ["🏞 Mount Borivos"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/borisov.lua",
     ["🏞 Mount Keyboard"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/keyboard.lua",
     ["🏞 Mount Morohmoy"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/morohmoy.lua",
+    ["🏞 Mount Velora"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/velora.lua",
+    ["🏞 Mount Kita"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/kita.lua",
+    ["🏞 Mount Limasatu"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/limasatu.lua"
 }
 
 -- Dropdown Mount
