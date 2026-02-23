@@ -516,7 +516,6 @@ local mountRoutes = {
     ["🏞 Mount Velora"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/velora.lua",
     ["🏞 Mount Kita"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/kita.lua",
     ["🏞 Mount Limasatu"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/limasatu.lua"
-	["🗻 Mount Agora"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/agora.lua",
     ["🏞 Mount Ngebut"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/ngebut.lua",
     ["🏞 Mount Victoria"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/victoria.lua",
     ["🏞 Mount Rakyat"] = "https://raw.githubusercontent.com/Wasov97-bot/Wmap/refs/heads/main/rakyat.lua",
